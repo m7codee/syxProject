@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
    "scripts": {
-    "test": "node ."
+    "start": "node ."
   },
   "dependencies": {
     "axios": "^1.1.2",
